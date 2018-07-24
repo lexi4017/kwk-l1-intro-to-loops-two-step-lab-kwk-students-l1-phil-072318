@@ -56,7 +56,7 @@ until steps== 6
   if steps %2==0 
     puts "left"
   else 
-    "Right"
+    puts "Right"
 sleep(0.5)
  end 
    end
